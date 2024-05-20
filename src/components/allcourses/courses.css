@@ -114,4 +114,14 @@
 }
 /*-------------online---------*/
 @media screen and (max-width: 768px) {
+  .homeAbout{
+    max-width: 760px;
+    flex-wrap: wrap;
+    display: block;
+    overflow: hidden;
+  }
+  .items{
+    max-width: 760px;
+    flex-wrap: wrap;
+  }
 }

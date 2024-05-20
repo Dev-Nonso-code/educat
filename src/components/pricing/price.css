@@ -45,3 +45,9 @@
 }
 
 /*--------------faq-------------*/
+@media screen and (max-width: 768px) {
+  #sato div{
+    display: block;
+    /* display: grid1; */
+  }
+}

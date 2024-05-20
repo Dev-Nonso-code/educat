@@ -32,3 +32,16 @@
 .blog p {
   color: grey;
 }
+@media screen and (max-width: 768px) {
+  #rat{
+    max-width: 720px;
+    flex-wrap: wrap;
+    display: block;
+    display: grid1;
+    overflow: hidden;
+  }
+  #fd div{
+    display: block;
+    display: grid1;
+  }
+}

@@ -1,8 +1,26 @@
 .testimonal .items {
   padding: 30px;
   transition: 0.5s;
+  
 }
-
+@media screen and (max-width: 768px) {
+  #greed{
+    max-width: 720px;
+    flex-wrap: wrap;
+    display: block;
+    display: grid1;
+    overflow: hidden;
+  }
+}
+@media screen and (max-width: 868px) {
+  #greed{
+    max-width: 720px;
+    flex-wrap: wrap;
+    display: block;
+    display: grid1;
+    overflow: hidden;
+  }
+}
 .testimonal .img {
   position: relative;
 }

@@ -25,11 +25,11 @@ const HAbout = () => {
                     <div className='text'>
                       <h1>{val.coursesName}</h1>
                       <div className='rate'>
-                        <i className='fa fa-star'></i>
-                        <i className='fa fa-star'></i>
-                        <i className='fa fa-star'></i>
-                        <i className='fa fa-star'></i>
-                        <i className='fa fa-star'></i>
+                        <i className='bi b-star'></i>
+                        <i className='bi b-star'></i>
+                        <i className='bi b-star'></i>
+                        <i className='bi b-star'></i>
+                        <i className='bi b-star'></i>
                         <label htmlFor=''>(5.0)</label>
                       </div>
                       <div className='details'>

@@ -48,8 +48,8 @@ export const coursesCard = [
     coursesName: "Introducing to Software Engineering",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by John Smith",
+        dcover: "../images/back.webp",
+        name: "by Nonsoglobal",
         totalTime: "50 lectures (190 hrs)",
       },
     ],
@@ -62,12 +62,12 @@ export const coursesCard = [
     coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Ram Gurung",
         totalTime: "30 lectures (125 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
+    priceAll: "$220 All Course",
     pricePer: "$25 per month",
   },
   {
@@ -76,13 +76,13 @@ export const coursesCard = [
     coursesName: "HTML, CSS, and Javascript for Web Developers",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
+        totalTime: "60 lectures (50 hrs)",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "$60 All Course",
+    pricePer: "$8 per month",
   },
   {
     id: 4,
@@ -90,7 +90,7 @@ export const coursesCard = [
     coursesName: "Introducing to Programming with WordPress",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Prabin Thapa Mager",
         totalTime: "20 lectures (20 hrs)",
       },
@@ -104,13 +104,13 @@ export const coursesCard = [
     coursesName: "Introducing to Programming with ReactJS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Sunil Bishowkaram",
         totalTime: "100 lectures (150 hrs)",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "$340 All Course",
+    pricePer: "$36 per month",
   },
   {
     id: 6,
@@ -118,7 +118,7 @@ export const coursesCard = [
     coursesName: "Learn Frontend Programming Language",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Sunil Bishowkaram",
         totalTime: "200 lectures (300 hrs)",
       },
@@ -132,7 +132,7 @@ export const coursesCard = [
     coursesName: "Introducing to with HTML / CSS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Price",
         totalTime: "20 lectures (50 hrs)",
       },
@@ -160,7 +160,7 @@ export const coursesCard = [
     coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "../images/back.webp",
         name: "by Petter",
         totalTime: "50 lectures (50 hrs)",
       },
@@ -171,116 +171,116 @@ export const coursesCard = [
 ]
 export const online = [
   {
-    cover: "./images/courses/online/o1.png",
-    hoverCover: "./images/courses/online/o1.1.png",
+    cover: "../images/courses/online/o1.png",
+    hoverCover: "../images/courses/online/o1.1.png",
     courseName: "UI/UX Design Courses",
     course: "25 Courses",
   },
   {
-    cover: "./images/courses/online/o2.png",
-    hoverCover: "./images/courses/online/o2.1.png",
+    cover: "../images/courses/online/o2.png",
+    hoverCover: "../images/courses/online/o2.1.png",
     courseName: "Art & Design",
     course: "25 Courses",
   },
   {
-    cover: "./images/courses/online/o3.png",
-    hoverCover: "./images/courses/online/o3.1.png",
+    cover: "../images/courses/online/o3.png",
+    hoverCover: "../images/courses/online/o3.1.png",
     courseName: "Computer Science",
     course: "10 Courses",
   },
   {
-    cover: "./images/courses/online/o4.png",
-    hoverCover: "./images/courses/online/o4.1.png",
+    cover: "../images/courses/online/o4.png",
+    hoverCover: "../images/courses/online/o4.1.png",
     courseName: "History & Archeologic",
     course: "15 Courses",
   },
   {
-    cover: "./images/courses/online/o5.png",
-    hoverCover: "./images/courses/online/o5.1.png",
+    cover: "../images/courses/online/o5.png",
+    hoverCover: "../images/courses/online/o5.1.png",
     courseName: "Software Engineering",
     course: "30 Courses",
   },
   {
-    cover: "./images/courses/online/o6.png",
-    hoverCover: "./images/courses/online/o6.1.png",
+    cover: "../images/courses/online/o6.png",
+    hoverCover: "../images/courses/online/o6.1.png",
     courseName: "Information Software",
     course: "60 Courses",
   },
   {
-    cover: "./images/courses/online/o7.png",
-    hoverCover: "./images/courses/online/o7.1.png",
+    cover: "../images/courses/online/o7.png",
+    hoverCover: "../images/courses/online/o7.1.png",
     courseName: "Health & Fitness",
     course: "10 Courses",
   },
   {
-    cover: "./images/courses/online/o8.png",
-    hoverCover: "./images/courses/online/o8.1.png",
+    cover: "../images/courses/online/o8.png",
+    hoverCover: "../images/courses/online/o8.1.png",
     courseName: "Marketing",
     course: "30 Courses",
   },
   {
-    cover: "./images/courses/online/o9.png",
-    hoverCover: "./images/courses/online/o9.1.png",
+    cover: "../images/courses/online/o9.png",
+    hoverCover: "../images/courses/online/o9.1.png",
     courseName: "Graphic Design",
     course: "80 Courses",
   },
   {
-    cover: "./images/courses/online/o10.png",
-    hoverCover: "./images/courses/online/o10.1.png",
+    cover: "../images/courses/online/o10.png",
+    hoverCover: "../images/courses/online/o10.1.png",
     courseName: "Music",
     course: "120 Courses",
   },
   {
-    cover: "./images/courses/online/o11.png",
-    hoverCover: "./images/courses/online/o11.1.png",
+    cover: "../images/courses/online/o11.png",
+    hoverCover: "../images/courses/online/o11.1.png",
     courseName: "Business Administration",
-    course: "17 Courses",
+    course: "19 Courses",
   },
   {
-    cover: "./images/courses/online/o12.png",
-    hoverCover: "./images/courses/online/o12.1.png",
+    cover: "../images/courses/online/o12.png",
+    hoverCover: "../images/courses/online/o12.1.png",
     courseName: "Web Management",
     course: "17 Courses",
   },
 ]
 export const team = [
   {
-    cover: "./images/team/t1.webp",
+    cover: "../images/team/t1.webp",
     name: "Ph.D Adrian Molises",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t2.webp",
+    cover: "../images/team/t2.webp",
     name: "Ph.D Arthur MaGregor",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t3.webp",
-    name: "Ph.D Anna Hanzen",
+    cover: "../images/team/t3.webp",
+    name: "Ph.D Anna Ngozie",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t4.webp",
+    cover: "../images/team/t4.webp",
     name: "Ph.D Brian Wooden",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t5.webp",
+    cover: "../images/team/t5.webp",
     name: "Ph.D Adrian Molises",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t6.webp",
+    cover: "../images/team/t6.webp",
     name: "Ph.D Arthur MaGregor",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t7.webp",
-    name: "Ph.D Anna Hanzen",
+    cover: "../images/team/t7.webp",
+    name: "Ph.D Obasi Hanzen",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t8.webp",
+    cover: "../images/team/t8.webp",
     name: "Ph.D Brian Wooden",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -298,7 +298,7 @@ export const price = [
   },
   {
     name: "PREMIUM PLAN",
-    price: "109k",
+    price: "209k",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
@@ -310,7 +310,7 @@ export const price = [
 export const faq = [
   {
     title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    desc: "We have all the follow courses avaliable in vitual class, two times a week Wed and sartudays.",
   },
   {
     title: "Where It is hidden by default, until the collapse?",
@@ -325,12 +325,12 @@ export const faq = [
     desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "I'am too old to aplly for any courses?",
+    desc: "Learning never Ends, so you are not too old please. No matter how old you are, there is something in you that is unquie put them in Teach.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How Can my Kids apply?",
+    desc: "It is easy, only with working laptop with internet connection,'Kids from 6 years old to 15 years old are allow in our Kid department' we have all it take to train your Kids in perfctly way",
   },
 ]
 export const blog = [
@@ -338,7 +338,7 @@ export const blog = [
     id: 1,
     type: "admin",
     date: "JAN. 18, 2021",
-    com: "3 COMMENTS ",
+    com: "30 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b1.webp",
@@ -364,7 +364,7 @@ export const blog = [
   {
     id: 4,
     type: "admin",
-    date: "JAN. 02, 2022",
+    date: "JAN. 02, 2021",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -373,7 +373,7 @@ export const blog = [
   {
     id: 5,
     type: "admin",
-    date: "DEC. 14, 2022",
+    date: "DEC. 14, 2020",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
@@ -395,20 +395,20 @@ export const testimonal = [
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t1.webp",
+    cover: "../images/testo/t1.webp",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
+    name: "DAN SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t2.webp",
+    cover: "../images/testo/t2.webp",
   },
   {
     id: 3,
-    name: "ROGER SCOTT",
+    name: "LORD PAPA",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t3.webp",
+    cover: "../images/testo/t3.webp",
   },
 ]

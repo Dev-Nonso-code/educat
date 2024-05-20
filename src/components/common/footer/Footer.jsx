@@ -69,7 +69,7 @@ const Footer = () => {
               </div>
             ))}
           </div>
-          <div className='box last'>
+          <div id="done" className='box last'>
             <h3>Have a Questions?</h3>
             <ul>
               <li>
