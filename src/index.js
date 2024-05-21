@@ -6,6 +6,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Button from 'react-bootstrap/Button';
+import 'animate.css';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faCheckSquare, faCoffee } from '@fortawesome/fontawesome-free-solid'
 
 // or less ideally
 

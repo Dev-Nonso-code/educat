@@ -9,7 +9,7 @@ import Blog from "./components/blog/Blog"
 import Contact from "./components/contact/Contact"
 import Footer from "./components/common/footer/Footer"
 import Home from "./components/home/Home"
-import Head from "./components/common/header/Head"
+import Heads from "./components/common/header/Head"
 import Notfound from "./components/home/Notfound"
 import Slogin from "./components/body/Slogin"
 import Ssignup from "./components/body/Ssignup"
@@ -18,12 +18,13 @@ import Asignup from "./components/body/Asignup"
 function App() {
   return (
     <>
-      
-      <Head />
+      <div id="voov">
+        <Heads />
+      </div>
       <div className="sticky-top bg-warning">
         <Header />
       </div>
-      
+
       <Routes>
 
         <Route exact path='/' element={<Home />} />
@@ -39,9 +40,9 @@ function App() {
         <Route exact path='/student/journal' element={<Blog />} />
         <Route exact path='/student/contact' element={<Contact />} />
         <Route exact path='*' element={<Notfound />} />
-        
+
       </Routes>
-      
+
       <Footer />
     </>
   )

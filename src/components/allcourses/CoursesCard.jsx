@@ -18,11 +18,11 @@ const CoursesCard = () => {
                 <div className='text'>
                   <h1>{val.coursesName}</h1>
                   <div className='rate'>
-                    <i className='bi b-star'></i>
-                    <i className='bi b-star'></i>
-                    <i className='bi b-star'></i>
-                    <i className='bi b-star'></i>
-                    <i className='bi b-star'></i>
+                    <i class="bi bi-star"></i>
+                    <i className='bi b-star icon'></i>
+                    <i className='bi b-star icon'></i>
+                    <i className='bi b-star icon'></i>
+                    <i className='bi b-star icon'></i>
                     <label htmlFor=''>(5.0)</label>
                   </div>
                   <div className='details'>

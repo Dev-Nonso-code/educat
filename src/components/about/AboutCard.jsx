@@ -3,14 +3,18 @@ import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
 import Awrapper from "./Awrapper"
+import 'animate.css';
 
 const AboutCard = () => {
   return (
     <>
       <section className='aboutHome'>
         <div className='container flexSB'>
-          <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+          <div className='left row '>
+            <img src='./images/about.webp' alt='' className="
+             
+             "D d//animate__animated animate__lightSpeedInRight 
+            animate__repeat-2 animate__delay-2s" />
           </div>
           <div className='right row'>
             <Heading subtitle='LEARN ANYTHING' title='Benefits About Online Learning Expertise' />

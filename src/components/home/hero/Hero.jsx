@@ -27,14 +27,14 @@ const Hero = () => {
             </p>
              <div className="d-flex mt-5">
               <button onClick={login} className="btn btn-primary w-50 p-3 ">
-                Login
+                Login  <i class="bi bi-arrow-right"></i>
               </button>
               <button
                 onClick={logout}
                 className="btn btn-secondary w-50 p-3"
                 id="btn"
               >
-                Register
+                Register  <i class="bi bi-arrow-right"></i>
               </button>
 
             </div>

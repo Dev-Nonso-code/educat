@@ -1,5 +1,6 @@
 import React, { useState } from "react"
 import { Link } from "react-router-dom"
+//  import Head from "./Head"
 
 import "./header.css"
 
@@ -8,7 +9,7 @@ const Header = () => {
 
   return (
     <>
-      
+     {/* <Head /> */}
       <header>
         <nav className='flexSB'>
           <ul className={click ? "mobile-nav" : "flexSB "} onClick={() => setClick(false)}>
